@@ -1,7 +1,7 @@
 ---
 title: "Installation & Usage"
 anchor: "usage"
-weight: 0
+weight: -1
 ---
 
 Integrating Rucksack into your workflow is easy. There are plugins for most build tools, and an [npm module](https://www.npmjs.com/package/rucksack-css) to integrate it manually or process your CSS directly on the command line.

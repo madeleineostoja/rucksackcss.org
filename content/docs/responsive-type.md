@@ -97,4 +97,4 @@ html {
 [calc-polyfill]: https://github.com/closingtag/calc-polyfill
 [respond]: https://github.com/scottjehl/Respond
 [vminpoly]: https://github.com/saabi/vminpoly
-[demo]: http://simplaio.github.io/rucksack/img/type-demo.gif
+[demo]: http://www.rucksackcss.org/img/type-demo.gif
