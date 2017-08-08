@@ -1,0 +1,16 @@
+@font-face
+  font-family 'icon'
+  font-path 'https://simplaio.github.io/rucksack/fonts/icon/icon'
+  font-weight normal
+  font-style normal
+
+icon()
+  font-family 'icon'
+  font-size inherit
+  line-height inherit
+  color inherit
+  vertical-align middle
+
+[data-icon]::before
+  icon()
+  content attr(data-icon)
